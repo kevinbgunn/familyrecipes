@@ -6,5 +6,5 @@ My Library Carpentry Family Recipe repo
 **Thumbprint Cookies**
 
 **Lasagna**
-yummy
+yummy!
 
